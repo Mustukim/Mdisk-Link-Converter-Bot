@@ -11,15 +11,15 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
-            "value": ""
+            "value": "6052765888:AAEfNdLK_7OvmdELvTk5AEL4GiANIeHo-zM"
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": ""
+            "value": "29613087"
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": ""
+            "value": "cd8165d10551610990dabe6711db955d"
         },
         "CUSTOM_FOOTER": {
             "description": "Enter your Custom Footer",
